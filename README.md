@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HVACnerd1
 - 👀 I’m interested in web3 and it's applications for all mankind
 - 🌱 I’m currently learning Scrypto and Rust programming languages.
+- 🌱 I’m pursuing the PMP certification in Project Management
 - 💞️ I’m looking to collaborate on future projects
 - 📫 Reach me at ligercats@protonmail.com
